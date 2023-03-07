@@ -1,0 +1,9 @@
+#Modified/Added the key's/value's
+#Tue Mar 07 15:53:31 IST 2023
+base-Url=https\://persistent.sandbox.mambu.com/api/
+product=clients
+Accept=application/vnd.mambu.v2+json
+pass=V2VsY29tZTEyMw\=\=
+detailsLevel=FULL
+user=PrashantJ
+Content-Type=application/json
